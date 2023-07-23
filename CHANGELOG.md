@@ -1,3 +1,11 @@
-## 0.0.1
+## 0.0.1-alpha
 
-* TODO: Describe initial release.
+* add IOCContainer
+* make dependencies lazy
+* use finalizers to close streams
+
+## 0.0.1+1-alpha
+
+* fix issue with refreshing dependency
+
+

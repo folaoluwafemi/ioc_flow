@@ -24,7 +24,7 @@ class Dependency<T> {
   }
 
   Dependency<T> refresh() {
-    _instance = _factory();
+    _instance = null;
     return this;
   }
 
